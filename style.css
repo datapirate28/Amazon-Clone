@@ -378,7 +378,7 @@
     height: 80px;
     background-color:   #242f3b;
     border-top: 1px solid rgb(93, 93, 93);
-    padding-top: 20px;
+    padding-top: 20px;  
 }
 
 
@@ -410,3 +410,24 @@
     font-size: 0.8rem;
 }
 
+.panel-five{
+    height: 80px;
+    background-color: #131921;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.8rem;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.panel-five-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 0.8rem;
+}
